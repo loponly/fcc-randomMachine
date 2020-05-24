@@ -31,7 +31,7 @@ class QuoteMachine extends React.Component {
             size="small"
             id="new-quote"
           >
-            Next Quote
+            Awesome Quote
           </Button>
           <IconButton
             target="_blank"
